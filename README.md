@@ -1,23 +1,44 @@
-# Hi, I'm Dilki Nawodya 👋
+                                  # Hi, I'm Dilki Nawodya 👋
+                                  
+          
 
-🎓 Information Technology Undergraduate
+## 👋 About Me
 
-💻 Interested in Software Development, Web Development, UI/UX Design, and IoT Projects
+🎓 **IT Undergraduate** at the **University of Moratuwa**  
 
-## About Me
+💻 Currently exploring:
+- ☕ Java
+- 🐘 PHP
+- 🗄️ MySQL
+- ⚡ JavaScript
 
-I enjoy building software applications and learning new technologies.
-I work with Java, JavaScript, PHP, MySQL, HTML, CSS, and Git.
+🌐 Interested in **Full Stack Web Development** and creating user-friendly applications  
 
-## Skills
+🚀 Always learning new technologies and improving my technical knowledge  
+
+🧩 Continuously working on enhancing my programming skills and problem-solving abilities
+
+## 🛠️ Skills
 
 <img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql,git,github,figma" />
 
-## Projects
+## 🚀 Projects
 
-🚀 Blog Application  
-🚀 Food Ordering App UI Design  
-🚀 Smart Cart System
+📝 **Blog Application**
+- 🌐 Full-stack web application using HTML, CSS, JavaScript, PHP, and MySQL
+- 🔐 Includes user management and database integration
+
+🍔 **Food Ordering App UI/UX Design**
+- 🎨 Designed a modern food ordering application prototype using Figma
+- 📱 Focused on user-friendly interface design and user experience
+
+🛒 **Smart Cart System**
+- 🏪 Developed a supermarket automation solution
+- 📦 Implemented barcode scanning and smart product indicators
+
+🤖 **IoT & Hardware Projects**
+- ⚙️ Worked with ESP32, sensors, motors, and embedded systems
+- 🔌 Developed hardware-based solutions combining software and electronics
 
 ## 📫 Connect With Me
 
