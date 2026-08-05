@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dilki Nawodya
 
 
-## 👋 About Me
+##👨‍💻 About Me
 
 🎓 **IT Undergraduate** at the **University of Moratuwa**  
 
