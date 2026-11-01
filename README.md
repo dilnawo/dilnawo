@@ -38,29 +38,45 @@ I'm an Information Technology undergraduate at the **University of Moratuwa, Sri
 
 ---
 
-## 🚀 Projects
 
-### 🎨 TaxMate
-A tax management platform concept focused on tax calculations, tax guidance and connecting users with tax advisors.
-
-**Focus:** UI/UX Design | Figma | Web Application Design
-
-### 🌐 LocalLink
-A web-based project focused on connecting users with local services and opportunities.
-
-**Focus:** Web Development
-
-### 🧵 Automated Multicolor String Art Machine
-A microcontroller-based project designed to automate multicolor string art using motors, sensors and image processing.
-
-**Focus:** ESP32 | IoT | Embedded Systems
+## 🚀 Featured Projects
 
 ### 📝 PHP Blog Application
-A dynamic blog application with user authentication and blog post management.
+A dynamic blog application that allows users to register, log in, create, edit and delete blog posts.
 
-**Focus:** PHP | MySQL | HTML | CSS | JavaScript
+**Technologies:** PHP | MySQL | HTML | CSS | JavaScript
+
+**Status:** Completed
+
+[View Repository](YOUR_BLOG_REPOSITORY_LINK)
 
 ---
+
+### 🎨 TaxMate – Tax Management Platform
+A tax management platform designed to simplify tax calculations, provide tax guidance and connect users with tax advisors.
+
+**Focus:** UI/UX Design | Figma | Web Application
+
+**Status:** In Progress
+
+---
+
+### 🌐 LocalLink – Local Services Platform
+A web-based platform focused on connecting users with local service providers and opportunities.
+
+**Focus:** Web Development | Frontend Development
+
+**Status:** In Progress
+
+---
+
+## 🎯 Currently Working On
+
+- Developing LocalLink
+- Working on TaxMate UI/UX and project development
+- Improving my Full-Stack Web Development skills
+- Exploring new technologies and building practical projects
+
 
 ## 🎯 Current Goals
 
