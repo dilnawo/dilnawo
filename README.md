@@ -90,12 +90,16 @@ A web-based platform focused on connecting users with local service providers an
 
 ---
 
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilnawo&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilnawo&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dilnawo&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dilnawo&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
 
 
 ## 🤝 Connect With Me
