@@ -48,7 +48,7 @@ A dynamic blog application that allows users to register, log in, create, edit a
 
 **Status:** Completed
 
-[View Repository](YOUR_BLOG_REPOSITORY_LINK)
+[View Repository](https://github.com/dilnawo/Blog-Application)
 
 ---
 
