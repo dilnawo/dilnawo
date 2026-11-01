@@ -1,57 +1,83 @@
-# 👋 Hello, I'm Dilki Nawodya
 
+# Hi there, I'm Dilki Nawodya! 👋
 
-## 👨‍💻 About Me
+### 🎓 IT Undergraduate | Aspiring Software Engineer
 
-🎓 **IT Undergraduate** at the **University of Moratuwa**  
+I'm an Information Technology undergraduate at the **University of Moratuwa, Sri Lanka**, passionate about software development, web technologies, and creating user-friendly digital experiences.
 
-💻 Currently exploring:
-- ☕ Java
-- 🐘 PHP
-- 🗄️ MySQL
-- ⚡ JavaScript
+- 💻 Interested in Full-Stack Web Development
+- 🎨 Passionate about UI/UX Design
+- 🌱 Currently learning Java, JavaScript, React and Node.js
+- 🚀 Building practical projects to improve my technical skills
+- 🤝 Always open to learning, collaboration and new opportunities
 
-🌐 Interested in **Full Stack Web Development** and creating user-friendly applications  
+---
 
-🚀 Always learning new technologies and improving my technical knowledge  
+## 🛠️ Technical Skills
 
-🧩 Continuously working on enhancing my programming skills and problem-solving abilities
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🛠️ Skills
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,js,php,html,css,mysql,git,github,figma" />
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
+---
 
 ## 🚀 Projects
 
-📝 **Blog Application**
-- 🌐 Full-stack web application using HTML, CSS, JavaScript, PHP, and MySQL
-- 🔐 Includes user management and database integration
-- 
+### 🎨 TaxMate
+A tax management platform concept focused on tax calculations, tax guidance and connecting users with tax advisors.
 
-🍔 **Food Ordering App UI/UX Design**
-- 🎨 Designed a modern food ordering application prototype using Figma
-- 📱 Focused on user friendly interface design and user experience
-- 
+**Focus:** UI/UX Design | Figma | Web Application Design
 
-🛒 **Smart Cart System**
-- 🏪 Developed a supermarket automation solution
-- 📦 Implemented barcode scanning and smart product indicators
-- 
+### 🌐 LocalLink
+A web-based project focused on connecting users with local services and opportunities.
 
-🤖 **IoT & Hardware Projects**
-- ⚙️ Worked with ESP32, sensors, motors, and embedded systems
-- 🔌 Developed hardware-based solutions combining software and electronics
+**Focus:** Web Development
 
-- 
+### 🧵 Automated Multicolor String Art Machine
+A microcontroller-based project designed to automate multicolor string art using motors, sensors and image processing.
 
-## 📫 Connect With Me
+**Focus:** ESP32 | IoT | Embedded Systems
 
-<p>
+### 📝 PHP Blog Application
+A dynamic blog application with user authentication and blog post management.
 
-<a href="https://github.com/dilnawo">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+**Focus:** PHP | MySQL | HTML | CSS | JavaScript
+
+---
+
+## 🎯 Current Goals
+
+- Strengthening my programming fundamentals
+- Improving my full-stack development skills
+- Building real-world software projects
+- Exploring modern UI/UX design practices
+- Contributing to collaborative projects
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilki-nawodya-7b645358/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dilnawo)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
